@@ -10,4 +10,6 @@
 ESP8266 D2引脚 接 WS2812的din引脚
 
 
+网页效果图
 
+<img width="1336" height="936" alt="image" src="https://github.com/user-attachments/assets/c3039bd5-9fa5-4c0e-980e-081be7905896" />
